@@ -1,0 +1,10 @@
+{
+	"name": "Sunblast",
+	"version": "0.1.0",
+	"description": "An opinionated engine.",
+	"author": "",
+	"image": "icon.svg",
+	"url": "",
+	"license": "MIT",
+	"proofing": false
+}

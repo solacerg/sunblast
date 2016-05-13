@@ -1,0 +1,14 @@
+image: node:latest
+
+before_script:
+  - npm config set cache /cache
+  - npm install
+  - npm i -g gulp
+
+gulp_release:
+  script:
+    - gulp release
+
+gulp_debug:
+  script:
+    - gulp
